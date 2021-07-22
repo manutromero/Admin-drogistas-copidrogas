@@ -1,0 +1,10 @@
+{
+  "admin.app.devoluciones": {
+    "component": "devoluciones",
+    "path": "/admin/app/devoluciones"
+  },
+  "admin.app.devoluciones-detail": {
+    "component": "devolucionesDetail",
+    "path": "/admin/app/devoluciones/:id"
+  }
+}
